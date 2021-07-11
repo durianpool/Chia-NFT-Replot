@@ -48,7 +48,7 @@ Example of replot.ps1 script:
         }
 
  - Please tell me if you found bugs. Thank you.
- - https://durianpool.github.io/
+ - website: https://durianpool.github.io/
  
 Your tips encourage me. Thank you.
  - XCH: xch16ckhjxafchfc9uy7qlzj0nde9fslxcw83q2dxnv3az3mx6rgntqqvjrv94
