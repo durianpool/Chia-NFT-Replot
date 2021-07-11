@@ -11,6 +11,11 @@ Executing the script will delete an OG plot and plot a new NFT plot one by one, 
 - Please use the latest release of stotiks/chia-plotter. https://github.com/stotiks/chia-plotter/releases/tag/v0.1.1 or above.
 - Please use the latest release of Chia-Network/chia-blockchain. https://github.com/Chia-Network/chia-blockchain/releases/tag/1.2.0 or above.
 
+## Who should use the script:
+- You have a HDD full with OG plots.
+- You want to replot to NFT plot, but do not want to delete all plots and lose all farming chances at once.
+- You want to slowly replace all OG plots with NFT plots one by one, so that you do not lose farming chances.
+
 ## What is the script doing:
 1. Test a <OG_Plots_Directory>.
 2. If the <OG_Plots_Directory> contains any file with .plot extension, it will remove the oldest one.
