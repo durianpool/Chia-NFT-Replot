@@ -1,21 +1,23 @@
 # Chia Network - Replot Old Plot with NFT Plot using MADMAX (under construction)
 
 This script is for replotting an OG plot to a NFT plot.
-Execute the script will delete an OG plot and plot a new NFT plot one by one, until OG plot directory is empty.
+Execute the script will delete an OG plot and plot a new NFT plot one by one, until OG plot directory do not have any .plot file.
 Please read the script and understand the command before use.
-Use at your own risk please.
+Use at your own risk.
 
 ## Attention
-- This script is for Windows Powershell only
-- madMAx43v3r_chia-plotter_win_v0.1.1 and above
-- 1.2.0 Chia blockchain 2021-07-07 and above.
+- This script is for Windows Powershell only.
+- Please use latest release of stotiks/chia-plotter. https://github.com/stotiks/chia-plotter/releases/tag/v0.1.1
+- Please use lates release of Chia-Network/chia-blockchain. https://github.com/Chia-Network/chia-blockchain/releases/tag/1.2.0
 
 ## Feature
 - No Fee, No Donation.  Use as you like. Feel free to change the script to suit your purpose. 
 
 ## Installation
-1. Change your MadMax plot.ps1 to number variable to "1"  (-n 1)
-3. Copy replot_file1.ps1 and replot_file2.ps1 to your MadMax folder.
-2. 
+1. Change <Your_MadMax_chiaploter.ps1>'s number variable to 1  (-n 1)
+2. Put replot.ps1 to <Your_MadMax_Folder>.
+3. run .\replot.ps1
 
 ## Remarks
+
+Example
