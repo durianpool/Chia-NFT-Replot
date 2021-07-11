@@ -13,9 +13,9 @@ Executing the script will delete an OG plot and plot a new NFT plot one by one, 
 
 ## Who should use the script:
 - You have a HDD full with OG plots.
+- You want to keep the same or minimize losing farming chances.
 - You want to replot to NFT plot, but do not want to delete all plots and lose all farming chances at once.
 - You want to easily replace all OG plots with NFT plots without manually delete OG plot and create NFT plot one by one. 
-- You want to keep the same or minimize losing farming chances.
 
 ## What is the script doing:
 1. Test a <OG_Plots_Directory>.
