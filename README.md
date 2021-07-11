@@ -38,4 +38,4 @@ Example of replot.ps1 script:
         }
 
  - I am a coding beginner. Please tel me if you found bugs. Thank you.
- - durianpool.github.io
+ - https://durianpool.github.io/
