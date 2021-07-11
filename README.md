@@ -2,7 +2,7 @@
 
 This script is for replotting an OG plot to a NFT plot.
 Executing the script will delete an OG plot and plot a new NFT plot one by one, until OG plot directory do not have any .plot file.
-- Please read the script and understand the command before use.
+- Please read README before use.
 - Use at your own risk.
 - No Fee, No Donation.  Use as you like. Feel free to change the script to suit your purpose. 
 
