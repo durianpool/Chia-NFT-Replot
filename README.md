@@ -6,10 +6,11 @@ Please read the script and understand the command before use.
 Use at your own risk please.
 
 ## Attention
-- For security purpose, password login is prohited after installation. Please make sure you have SSH key of your VPS before deploy. 
+- This script is for Windows Powershell only
+- madMAx43v3r_chia-plotter_win_v0.1.1 and above
+- 1.2.0 Chia blockchain 2021-07-07 and above.
 
 ## Feature
-- 
 - No Fee, No Donation.  Use as you like. Feel free to change the script to suit your purpose. 
 
 ## Installation
