@@ -26,7 +26,7 @@ Execute the script will delete an OG plot and plot a new NFT plot one by one, un
 - Example of replot.ps1
 	
 while ($True) {\
-        if (Test-Path -Path D:\Plots\*.plot) {\
+	if (Test-Path -Path D:\Plots\*.plot) {\
 		Get-ChildItem D:\Plots | Sort CreationTime | Select -First 1 | Remove-Item | .\chiaplotter.ps1\
 		} else {\
 		Break\
