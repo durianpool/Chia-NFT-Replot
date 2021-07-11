@@ -18,17 +18,17 @@ Execute the script will delete an OG plot and plot a new NFT plot one by one, un
 4. This process will loop until <OG Plots Directory> does not have any .plot file.
 
 ## Installation
-1. Change <Your_MadMax_chiaploter.ps1>'s number of plot variable to 1  (-n 1)
-2. Put replot.ps1 to <Your_MadMax_Folder>.
-3. run `<Your_MadMax_Folder>.\replot.ps1`
+1. Change <Your_MadMax_chiaploter.ps1>'s number of plot variable to 1 (-n 1)
+2. Download and put replot.ps1 to <Your_MadMax_Folder>.
+3. run <Your_MadMax_Folder>.\replot.ps1
 
 ## Remarks
 Example of replot.ps1 script:
 
     while ($True) {
-	    if (Test-Path -Path D:\Plots\*.plot) {
-		    Get-ChildItem D:\Plots | Sort CreationTime | Select -First 1 | Remove-Item | .\chiaplotter.ps1
-		    } else {
-		    Break
-		    }
-	    }
+        if (Test-Path -Path D:\Plots\*.plot) {
+            Get-ChildItem D:\Plots | Sort CreationTime | Select -First 1 | Remove-Item | .\chiaplotter.ps1
+            } else {
+            Break
+            }
+        }
