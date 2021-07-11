@@ -23,7 +23,7 @@ Execute the script will delete an OG plot and plot a new NFT plot one by one, un
 3. run `<Your_MadMax_Folder>.\replot.ps1`
 
 ## Remarks
-- Example of replot.ps1
+Here is an example of AppleScript:
 	
     while ($True) {\
         if (Test-Path -Path D:\Plots\*.plot) {\
