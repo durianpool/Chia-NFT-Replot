@@ -23,7 +23,8 @@ Execute the script will delete an OG plot and plot a new NFT plot one by one, un
 3. run `<Your_MadMax_Folder>.\replot.ps1`
 
 ## Remarks
-- Example of replot.ps1\ 
+- Example of replot.ps1
+	
 while ($True) {\
 	if (Test-Path -Path D:\Plots\*.plot) {\
 		Get-ChildItem D:\Plots | Sort CreationTime | Select -First 1 | Remove-Item | .\chiaplotter.ps1\
