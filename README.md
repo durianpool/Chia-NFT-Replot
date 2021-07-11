@@ -36,3 +36,6 @@ Example of replot.ps1 script:
             Break
             }
         }
+
+ - I am a coding beginner. Please tel me if you found bugs. Thank you.
+ - durianpool.github.io
