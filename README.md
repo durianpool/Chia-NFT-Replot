@@ -46,3 +46,6 @@ Example of replot.ps1 script:
 
  - Please tell me if you found bugs. Thank you.
  - https://durianpool.github.io/
+ - XCH: 
+ - BTC: bc1qyunqw2q88mm2gggpcvqlmdx7n40vqcd4yvhvtx
+ - ETH: 0x908B4BbAc17949E8C2927E19Fcc0215C5a5FC2E3
