@@ -1,4 +1,4 @@
-# Chia Network - Replot Old Plot with NFT Plot using MADMAX Windows version (under construction)
+# Chia Network - Replot OG Plot with NFT Plot using MADMAX Windows Version
 
 This script is for replotting an OG plot to a NFT plot.
 Execute the script will delete an OG plot and plot a new NFT plot one by one, until OG plot directory do not have any .plot file.
