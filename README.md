@@ -30,7 +30,7 @@ Executing the script will delete an OG plot and plot a new NFT plot one by one, 
 4. Replace `-p Pool Public Key` with `-c Pool Contract Address` in your <Your_MadMax_chiaploter.ps1>.
 5. Download and put replot.ps1 to <Your_MadMax_Folder>.
 6. Edit replot.ps1 <OG_Plots_Directory> according to your situation.
-7. run <Your_MadMax_Folder>.\replot.ps1
+7. run `<Your_MadMax_Folder>.\replot.ps1`
 
 ## Remarks
 Example of replot.ps1 script:
