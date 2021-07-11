@@ -23,18 +23,12 @@ Execute the script will delete an OG plot and plot a new NFT plot one by one, un
 3. run `<Your_MadMax_Folder>.\replot.ps1`
 
 ## Remarks
-Here is an example of AppleScript:
+Example of replot.ps1 script:
 	
-    while ($True) {\
-        if (Test-Path -Path D:\Plots\*.plot) {\
-            Get-ChildItem D:\Plots | Sort CreationTime | Select -First 1 | Remove-Item | .\chiaplotter.ps1\
-            } else {\
-            Break\
-            }\
+    while ($True) {
+        if (Test-Path -Path D:\Plots\*.plot) {
+            Get-ChildItem D:\Plots | Sort CreationTime | Select -First 1 | Remove-Item | .\chiaplotter.ps1
+            } else {
+            Break
+            }
         }
-	
-Here is an example of AppleScript:
-
-    tell application "Foo"
-        beep
-    end tell
