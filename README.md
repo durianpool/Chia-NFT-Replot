@@ -19,5 +19,12 @@ Use at your own risk.
 3. run .\replot.ps1
 
 ## Remarks
+- Example of replot.ps1
 
-Example
+while ($True) {
+	if (Test-Path -Path D:\Plots\*.plot) {
+		Get-ChildItem D:\Plots | Sort CreationTime | Select -First 1 | Remove-Item | .\chiaplotter.ps1
+		} else {
+		Break
+		}
+	}
