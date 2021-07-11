@@ -37,5 +37,5 @@ Example of replot.ps1 script:
             }
         }
 
- - I am a coding beginner. Please tel me if you found bugs. Thank you.
+ - I am a coding beginner. Please tell me if you found bugs. Thank you.
  - https://durianpool.github.io/
