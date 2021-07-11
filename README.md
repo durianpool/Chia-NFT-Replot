@@ -34,7 +34,7 @@ Executing the script will delete an OG plot and plot a new NFT plot one by one, 
 7. run `<Your_MadMax_Folder>.\replot.ps1`
 
 ## Reminder
-- Do not forget to add your new NFT plot directory to the farm. 
+- Do not forget to add your new NFT plot directory to the farm or pool. 
 
 ## Remarks
 Example of replot.ps1 script:
