@@ -10,7 +10,8 @@ Use at your own risk.
 - Please use latest release of stotiks/chia-plotter. https://github.com/stotiks/chia-plotter/releases/tag/v0.1.1
 - Please use lates release of Chia-Network/chia-blockchain. https://github.com/Chia-Network/chia-blockchain/releases/tag/1.2.0
 
-## Feature
+## What is the script doing:
+- Test a OG Plot folder. If the OG 
 - No Fee, No Donation.  Use as you like. Feel free to change the script to suit your purpose. 
 
 ## Installation
