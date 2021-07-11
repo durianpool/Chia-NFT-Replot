@@ -13,16 +13,16 @@ Execute the script will delete an OG plot and plot a new NFT plot one by one, un
 
 ## What is the script doing:
 1. Test a <OG_Plots_Directory>.
-2. If the <OG Plots Directory> contains any file with .plot extension, it will remove the oldest one.
+2. If the <OG_Plots_Directory> contains any file with .plot extension, it will remove the oldest one.
 3. After that, it will run <Your_MadMax_chiaplotter.ps1>, to create one NFT plot and transfer to <Your NFT Plots Directory>.
 4. This process will loop until <OG Plots Directory> does not have any .plot file.
 
 ## Installation
 1. Make a folder to store NFT plots only. <Your NFT Plots Directory>
 2. Change <Your_MadMax_chiaploter.ps1>'s number of plot variable to 1 (-n 1)
-3. Change <Your_MadMax_chiaploter.ps1>'s final directory to <Your NFT Plots Directory>. (-d <Your NFT Plots Directory>)   
+3. Change <Your_MadMax_chiaploter.ps1>'s final directory to <Your_NFT_Plots Directory>. (-d <Your_NFT_Plots_Directory>)   
 4. Download and put replot.ps1 to <Your_MadMax_Folder>.
-5. Edit <OG Plots Directory> according to your situation.
+5. Edit <OG_Plots_Directory> according to your situation.
 6. run <Your_MadMax_Folder>.\replot.ps1
 
 ## Remarks
