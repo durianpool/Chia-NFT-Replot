@@ -25,8 +25,8 @@ Executing the script will delete an OG plot and plot a new NFT plot one by one, 
 
 ## Installation
 1. Make a new folder to store NFT plots only. <Your_NFT_Plots_Directory>
-2. Change <Your_MadMax_chiaploter.ps1>'s number of plot variable to 1 (-n 1)
-3. Change <Your_MadMax_chiaploter.ps1>'s final directory to <Your_NFT_Plots Directory>. (-d <Your_NFT_Plots_Directory>)
+2. Change <Your_MadMax_chiaploter.ps1>'s number of plot variable to 1 (`-n 1`)
+3. Change <Your_MadMax_chiaploter.ps1>'s final directory to <Your_NFT_Plots Directory>. (`-d <Your_NFT_Plots_Directory>`)
 4. Replace `-p Pool Public Key` with `-c Pool Contract Address` in your <Your_MadMax_chiaploter.ps1>.
 5. Download and put replot.ps1 to <Your_MadMax_Folder>.
 6. Edit replot.ps1 <OG_Plots_Directory> according to your situation.
